@@ -5,7 +5,7 @@
 ### 🚀 Full Stack Developer | CSE Student @ SVR Engineering College
 ### 🔐 Cybersecurity Enthusiast | Innovation Seeker | Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+innovative+solutions+🚀;Creating+secure+and+scalable+applications+🔐;Solving+real-world+problems+with+technology+💡)](https://github.com/Azees1220)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+innovative+solutions+🚀;Creating+secure+and+scalable+applications+🔐;Designing+modern+and+responsive+interfaces+🎨)](https://github.com/Azees1220)
 
 </div>
 
@@ -28,30 +28,30 @@
 
 ---
 
-## 💼 Tech Stack & Skills
+## 💼 [Tech Stack & Skills](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools)
 
 <div align="center">
 
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a1a)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)
+### 🌐 [Frontend Development](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a1a)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)](https://tailwindcss.com/)
 
-### 🔧 Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=1a1a1a)
+### 🔧 [Backend & Tools](https://nodejs.org/en/docs/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)](https://www.docker.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=1a1a1a)](https://code.visualstudio.com/)
 
-### 🔒 Security & Deployment
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a1a1a)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=1a1a1a)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a1a)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)
+### 🔒 [Security & Deployment](https://vercel.com/docs)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a1a1a)](https://owasp.org/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)](https://vercel.com/)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=1a1a1a)](https://render.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a1a)](https://www.netlify.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/)
 
 </div>
 
@@ -131,7 +131,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azees1220&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&line_height=24)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azees1220&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&line_height=30)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azees1220&theme=tokyonight&hide_border=true&stroke=00D9FF)
 
@@ -178,12 +178,12 @@
 
 | Platform | Status | Use Case |
 |----------|--------|----------|
-| **Vercel** | ✅ Active | Production deployments |
-| **Render** | ✅ Active | Backend and app hosting |
-| **Netlify** | ✅ Ready | Static site hosting |
-| **Docker** | ✅ Ready | Containerized applications |
-| **GitHub Pages** | ✅ Ready | Static documentation |
-| **AWS/GCP/Azure** | ✅ Ready | Cloud infrastructure |
+| **[Vercel](https://vercel.com/)** | ✅ Active | Production deployments |
+| **[Render](https://render.com/)** | ✅ Active | Backend and app hosting |
+| **[Netlify](https://www.netlify.com/)** | ✅ Ready | Static site hosting |
+| **[Docker](https://www.docker.com/)** | ✅ Ready | Containerized applications |
+| **[GitHub Pages](https://pages.github.com/)** | ✅ Ready | Static documentation |
+| **[AWS](https://aws.amazon.com/)** | ✅ Ready | Cloud infrastructure |
 
 </div>
 
