@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Welcome to My Profile!
@@ -6,7 +5,7 @@
 ### 🚀 Full Stack Developer | CSE Student @ SVR Engineering College
 ### 🔐 Cybersecurity Enthusiast | Innovation Seeker | Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+innovative+solutions+🚀;Creating+seamless+user+experiences+💡;Securing+applications+🔐;Transforming+ideas+into+reality+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+innovative+solutions+🚀;Creating+secure+digital+experiences+🔐;Designing+beautiful+user+interfaces+🎨;Learning+cloud+and+DevOps+⚙️)](https://github.com/Azees1220)
 
 </div>
 
@@ -93,6 +92,22 @@
 
 ---
 
+### 🧭 Onboard Tracking System
+**Streamlined onboarding management for companies and clients**
+
+![Project Status](https://img.shields.io/badge/Status-LIVE-brightgreen?style=flat-square&logo=checkmark)
+![Tech](https://img.shields.io/badge/Tech-JavaScript-blue?style=flat-square)
+
+**Features:**
+- 📋 Onboarding workflow tracking
+- 📦 Client and employee progress monitoring
+- 📊 Status updates and task visibility
+- ✅ Simplified onboarding management
+
+**[🚀 View Live Demo](https://azees1220.github.io/onboardtrackingsystem/)** • **[📂 View Repository](https://github.com/Azees1220/onboardtrackingsystem)**
+
+---
+
 ### 🔒 Private Messenger
 **End-to-end encrypted messaging for secure communications**
 
@@ -115,7 +130,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azees1220&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&line_height=27)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azees1220&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&line_height=25)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azees1220&theme=tokyonight&hide_border=true&stroke=00D9FF)
 
