@@ -5,7 +5,7 @@
 ### 🚀 Full Stack Developer | CSE Student @ SVR Engineering College
 ### 🔐 Cybersecurity Enthusiast | Innovation Seeker | Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+innovative+solutions+🚀;Creating+secure+digital+experiences+🔐;Designing+beautiful+user+interfaces+🎨;Learning+cloud+and+DevOps+⚙️)](https://github.com/Azees1220)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+innovative+solutions+🚀;Creating+secure+and+scalable+applications+🔐;Solving+real-world+problems+with+technology+💡)](https://github.com/Azees1220)
 
 </div>
 
@@ -49,6 +49,7 @@
 ### 🔒 Security & Deployment
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=shield&logoColor=white&labelColor=1a1a1a)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=1a1a1a)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a1a)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)
 
@@ -130,7 +131,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azees1220&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&line_height=25)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azees1220&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&line_height=24)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azees1220&theme=tokyonight&hide_border=true&stroke=00D9FF)
 
@@ -178,6 +179,7 @@
 | Platform | Status | Use Case |
 |----------|--------|----------|
 | **Vercel** | ✅ Active | Production deployments |
+| **Render** | ✅ Active | Backend and app hosting |
 | **Netlify** | ✅ Ready | Static site hosting |
 | **Docker** | ✅ Ready | Containerized applications |
 | **GitHub Pages** | ✅ Ready | Static documentation |
